@@ -1,0 +1,7 @@
+videos:
+https://www.youtube.com/watch?v=ga9N_ey4La4&list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG&index=2&ab_channel=CodeNCode
+
+
+
+Articles:
+https://algoshots.herokuapp.com/articles/primality-test/
