@@ -1,3 +1,5 @@
+//https://cp-algorithms.com/algebra/binary-exp.html
+
 #include <bits/stdc++.h>
 
 #define int long long

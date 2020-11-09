@@ -1,0 +1,7 @@
+https://www.spoj.com/problems/MPOW/
+
+
+
+
+Resources:
+https://www.hackerearth.com/practice/notes/matrix-exponentiation-1/
