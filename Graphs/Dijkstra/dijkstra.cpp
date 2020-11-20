@@ -60,6 +60,8 @@ void solve()
     int src;
     cin >> src;
     vi res = dijkstra(src, n);
+    for (int i = 1; i <= n; i++)
+        cout << res[i] << " ";
 }
 
 int32_t main()
@@ -69,7 +71,7 @@ int32_t main()
     cout.tie(NULL);
 
     int t = 1;
-    cin >> t;
+    // cin >> t;
     rep(i, 1, t)
     {
         solve();
